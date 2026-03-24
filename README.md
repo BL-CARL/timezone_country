@@ -26,13 +26,13 @@ Pure Dart. Zero dependencies. O(1) lookups with compile-time `const` maps.
 
 ```yaml
 dependencies:
-  timezone_country: ^1.0.0
+  carlbl_timezone_country: ^1.0.0
 ```
 
 ```bash
-dart pub add timezone_country
+dart pub add carlbl_timezone_country
 # or for Flutter projects:
-flutter pub add timezone_country
+flutter pub add carlbl_timezone_country
 ```
 
 ## Quick Start
@@ -187,3 +187,6 @@ All data is embedded as compile-time `const` maps. No network requests, no file 
 ## License
 
 MIT
+
+## Fork
+Flutter version has been downgrade for our project Carl Touch.
