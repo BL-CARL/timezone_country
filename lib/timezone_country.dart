@@ -5,7 +5,7 @@
 /// Pure Dart with zero runtime dependencies.
 ///
 /// ```dart
-/// import 'package:timezone_country/timezone_country.dart';
+/// import 'package:carlbl_timezone_country/timezone_country.dart';
 ///
 /// // Timezone to country
 /// TimezoneConvert.timezoneToCountryCode('Asia/Tokyo'); // 'JP'

@@ -1,4 +1,4 @@
-import 'package:timezone_country/timezone_country.dart';
+import 'package:carlbl_timezone_country/timezone_country.dart';
 
 void main() {
   // Timezone → Country
